@@ -1,12 +1,3 @@
 # Permissions
 
-| Command           | Permission       | Console only |
-| ----------------- | ---------------- | ------------ |
-| /sonar            | sonar.command    | No           |
-| /sonar statistics | sonar.statistics | No           |
-| /sonar blacklist  | sonar.blacklist  | No           |
-| /sonar verified   | sonar.verified   | No           |
-| /sonar verbose    | sonar.verbose    | No           |
-| /sonar lockdown   | sonar.lockdown   | No           |
-| /sonar reload     | sonar.reload     | No           |
-| /sonar dump       | sonar.dump       | Yes          |
+<table><thead><tr><th width="188">Command</th><th width="259">Permission</th><th width="155">Console only</th><th>Players only</th></tr></thead><tbody><tr><td>/sonar</td><td>sonar.command</td><td>No</td><td>No</td></tr><tr><td>/sonar statistics</td><td>sonar.statistics</td><td>No</td><td>No</td></tr><tr><td>/sonar blacklist</td><td>sonar.blacklist</td><td>No</td><td>No</td></tr><tr><td>/sonar verified</td><td>sonar.verified</td><td>No</td><td>Yes</td></tr><tr><td>/sonar verbose</td><td>sonar.verbose</td><td>No</td><td>No</td></tr><tr><td>/sonar lockdown</td><td>sonar.lockdown</td><td>No</td><td>No</td></tr><tr><td>/sonar reload</td><td>sonar.reload</td><td>No</td><td>No</td></tr><tr><td>/sonar dump</td><td>sonar.dump</td><td>Yes</td><td>No</td></tr></tbody></table>
