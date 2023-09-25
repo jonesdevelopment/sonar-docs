@@ -6,6 +6,7 @@
 * [Getting started](sonar/getting-started/README.md)
   * [Commands](sonar/getting-started/commands.md)
   * [Permissions](sonar/getting-started/permissions.md)
+* [Developer API](sonar/developer-api.md)
 * [Upgrade](sonar/upgrade.md)
 * [Building](sonar/building.md)
 
