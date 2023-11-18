@@ -1,11 +1,14 @@
 # Table of contents
 
+* [Download](https://github.com/jonesdevelopment/sonar/releases)
+* [Discord](https://jonesdev.xyz/discord)
+
 ## Sonar
 
 * [Welcome](README.md)
-* [Getting started](sonar/getting-started/README.md)
-  * [Commands](sonar/getting-started/commands.md)
-  * [Permissions](sonar/getting-started/permissions.md)
+* [Getting started](sonar/getting-started.md)
+* [Commands](sonar/commands.md)
+* [Permissions](sonar/permissions.md)
 * [Developer API](sonar/developer-api.md)
 * [Upgrade](sonar/upgrade.md)
 * [Building](sonar/building.md)

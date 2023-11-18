@@ -15,8 +15,8 @@ You can [download the latest stable release](https://github.com/jonesdevelopment
 
 You can also build your own version of Sonar by following the Building guide in the documentation.
 
-{% content-ref url="../building.md" %}
-[building.md](../building.md)
+{% content-ref url="building.md" %}
+[building.md](building.md)
 {% endcontent-ref %}
 
 If you have any further questions, join the [Jones Development Discord](https://jonesdev.xyz/discord) and open a ticket or start a discussion thread.
