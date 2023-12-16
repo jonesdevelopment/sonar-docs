@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Download](https://github.com/jonesdevelopment/sonar/releases)
+* [Download](https://github.com/jonesdevelopment/sonar/releases/latest)
 * [Discord](https://jonesdev.xyz/discord)
 
 ## Sonar
