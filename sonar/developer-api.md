@@ -56,4 +56,4 @@ Then, you need to register your event listener using the Sonar API:
 Sonar.get().getEventManager().registerListener(new TestListener());
 ```
 
-And - that's it. Now you can literally create your own checks by adding new channel pipelines, perform other various validations, or even bind this to a Discord bot.
+And - that's it. Have fun developing!

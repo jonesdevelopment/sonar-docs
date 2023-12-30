@@ -16,7 +16,7 @@ description: >-
 * No sort of checking for VPNs or proxies
 * Multi-platform support (Velocity, BungeeCord, and Bukkit)
 
-You can find Sonar on the following plugin websites:
+**You can find Sonar on the following plugin websites:**
 
 * [Modrinth](https://modrinth.com/plugin/sonar/)
 * [Hangar](https://hangar.papermc.io/Jones/sonar)
