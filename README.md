@@ -15,3 +15,10 @@ description: >-
 * No player should be annoyed by any sort of captcha
 * No sort of checking for VPNs or proxies
 * Multi-platform support (Velocity, BungeeCord, and Bukkit)
+
+You can find Sonar on the following plugin websites:
+
+* [Modrinth](https://modrinth.com/plugin/sonar/)
+* [Hangar](https://hangar.papermc.io/Jones/sonar)
+* [BuiltByBit](https://builtbybit.com/resources/sonar.23353/)
+* [Polymart](https://polymart.org/resource/sonar.5097)
