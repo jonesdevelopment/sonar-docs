@@ -6,6 +6,7 @@
 ## Sonar
 
 * [Welcome](README.md)
+* [Supported versions](sonar/supported-versions.md)
 * [Getting started](sonar/getting-started.md)
 * [Commands](sonar/commands.md)
 * [Permissions](sonar/permissions.md)
