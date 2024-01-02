@@ -5,11 +5,11 @@ description: Step-by-step guide on how to install Sonar on your server.
 # Getting started
 
 1. First, download the Sonar jar file.
-2. Stop your server.
+2. Then, stop your server.
 3. Open your server's plugins folder.
 4. Drag and drop the Sonar jar file into the plugins folder.
-5. Start your server.
-6. Sonar is now protecting your server!
+5. Finally, start your server again.
+6. Sonar is now protecting your server! :partying\_face:
 
 You can [download the latest stable release](https://github.com/jonesdevelopment/sonar/releases/latest) from the [Sonar GitHub repository](https://github.com/jonesdevelopment/sonar/).
 

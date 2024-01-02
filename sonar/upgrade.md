@@ -1,5 +1,5 @@
 ---
-description: Sonar VIP is an add-on to the normal edition of Sonar.
+description: Sonar VIP is a paid add-on to the normal, standard edition of Sonar.
 ---
 
 # Upgrade
@@ -14,4 +14,4 @@ If you want to support the project and receive some nice benefits, you can purch
 
 If you have any further questions, feel free to open a ticket on Discord.
 
-> Note: Sonar VIP is not available yet, you'll be notified once it is.
+<mark style="color:red;">**Sonar VIP is not available yet, you'll be notified once it is.**</mark>
