@@ -11,7 +11,7 @@
 * [Commands](sonar/commands.md)
 * [Permissions](sonar/permissions.md)
 * [Developer API](sonar/developer-api.md)
-* [Upgrade](sonar/upgrade.md)
+* [Upgrade to Premium](sonar/upgrade-to-premium.md)
 * [Building](sonar/building.md)
 
 ## Contributing
