@@ -23,8 +23,8 @@ description: List of all supported Minecraft versions and server software
 
 **Supported servers**
 
-* Velocity 3.3.0-SNAPSHOT (build 310 and above)
-* BungeeCord supporting (1.20.3 or above)
+* Velocity 3.3.0 (build 330 and above)
+* BungeeCord/Waterfall (1.20 and above)
 
 <mark style="color:red;">Important:</mark>
 
