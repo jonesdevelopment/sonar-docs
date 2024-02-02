@@ -4,7 +4,7 @@ description: Step-by-step guide on how to open a pull request.
 
 # Pull Requests
 
-Before opening a pull request, you will need to create a fork of the GitHub repository. Furthermore, you can follow the [Building guide](../sonar/building.md) and add your own patches or features. Please make sure that no one else has already opened a pull request with the exact same patches or features.
+Before opening a pull request, you will need to create a fork of the GitHub repository. Furthermore, you can follow the [Building guide](broken-reference) and add your own patches or features. Please make sure that no one else has already opened a pull request with the exact same patches or features.
 
 ### Guidelines
 

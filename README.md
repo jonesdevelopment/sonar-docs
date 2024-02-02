@@ -1,7 +1,8 @@
 ---
 description: >-
-  Welcome to the documentation of Sonar, a lightweight and easy-to-use anti-bot
-  plugin for your Minecraft server. It supports every client and server version.
+  Welcome to the documentation of Sonar, a lightweight anti-bot plugin for
+  Velocity, BungeeCord, and Bukkit. It is designed to detect and remove bots
+  from your server without affecting any real players.
 ---
 
 # Welcome
@@ -19,7 +20,7 @@ At the moment, Sonar only supports MySQL, but MariaDB and MongoDB support is pla
 You can track the progress [here](https://github.com/users/jonesdevelopment/projects/3?pane=issue\&itemId=48685401).
 
 **Where can I find the commands and permissions?**\
-You can find a list of commands [here](sonar/commands.md), and a list of all permissions [here](sonar/permissions.md).
+You can find a list of commands and their respective permission [here](administration/commands-and-permissions.md).
 
 **I found a bug! How can I report it?**\
 In order to report a bug, you can either open a ticket on [Discord](https://jonesdev.xyz/discord), ask for help in the `community-help` channel on [Discord](https://jonesdev.xyz/discord), or open a [GitHub issue](https://github.com/jonesdevelopment/sonar/issues/new/choose).

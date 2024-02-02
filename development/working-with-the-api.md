@@ -2,7 +2,7 @@
 description: Brief introduction to Sonar's API and event system
 ---
 
-# Developer API
+# Working with the API
 
 Sonar is supposed to be an easy-to-use plugin; therefore, the API has been designed to give a developer almost full control over the behavior of the plugin.
 

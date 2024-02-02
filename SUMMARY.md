@@ -6,13 +6,18 @@
 ## Sonar
 
 * [Welcome](README.md)
-* [Supported versions](sonar/supported-versions.md)
 * [Getting started](sonar/getting-started.md)
-* [Commands](sonar/commands.md)
-* [Permissions](sonar/permissions.md)
-* [Developer API](sonar/developer-api.md)
+* [Supported versions](sonar/supported-versions.md)
 * [Upgrade to Premium](sonar/upgrade-to-premium.md)
-* [Building](sonar/building.md)
+
+## Administration
+
+* [Commands and Permissions](administration/commands-and-permissions.md)
+
+## Development
+
+* [Working with the API](development/working-with-the-api.md)
+* [Building](development/building.md)
 
 ## Contributing
 
