@@ -21,12 +21,13 @@ description: List of all supported Minecraft versions and server software
 * 1.19-1.19.4
 * 1.20-1.20.4
 
-**Supported servers**
+**Requirements**
 
 * Velocity 3.3.0 (build 330 and above)
 * BungeeCord/Waterfall (1.20 and above)
+* Java 11 (and above)
 
-<mark style="color:red;">Important:</mark>
+**Disclaimer**
 
 * Some heavily modified server forks might not be supported
 * ViaVersion/Protocolize on the proxy may not be supported
