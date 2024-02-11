@@ -23,9 +23,9 @@ description: List of all supported Minecraft versions and server software
 
 **Requirements**
 
-* Velocity 3.3.0 (build 330 and above)
-* BungeeCord/Waterfall (1.20 and above)
-* Java 11 (and above)
+* Velocity 3.3.0 (build 330 or above)
+* BungeeCord/Waterfall (1.20 or above)
+* Java 11 (or above)
 
 **Disclaimer**
 
