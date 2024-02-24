@@ -13,7 +13,7 @@ description: >-
 Sonar currently supports Velocity and BungeeCord. You can read more about compatibility [here](sonar/supported-versions.md).
 
 **On which plugin websites/marketplaces can you find Sonar?**\
-You can find Sonar on [Modrinth](https://modrinth.com/plugin/sonar), [Hangar](https://hangar.papermc.io/Jones/sonar), [BuiltByBit](https://builtbybit.com/resources/sonar.23353/?ref=discover), and [Polymart](https://polymart.org/resource/sonar.5097).
+You can find Sonar on [Modrinth](https://modrinth.com/plugin/sonar), [Hangar](https://hangar.papermc.io/Jones/sonar), [BuiltByBit](https://builtbybit.com/resources/sonar.23353/?ref=discover), [SpigotMC](https://www.spigotmc.org/resources/sonar.115239/), and [Polymart](https://polymart.org/resource/sonar.5097).
 
 **Which databases are supported for storing verified players?**\
 At the moment, Sonar only supports MySQL, but MariaDB and MongoDB support is planned.\
