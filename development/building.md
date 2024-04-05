@@ -30,10 +30,6 @@ There are multiple ways of achieving a working jar file for Sonar. If you are us
 If you are not using IntelliJ IDEA, you can simply run the Gradle build script itself.
 
 * Linux: `./gradlew build-sonar`
-* Windows: `gradle.bat build-sonar`
+* Windows: `gradlew.bat build-sonar`
 
-If you are experiencing build failures, try adding `--stacktrace` to your Gradle command.
-
-### Using shadow
-
-If the `build-sonar` task isn't found or if you just want to use [shadow](https://github.com/johnrengelman/shadow) for building your jar file, you can also use `clean shadowJar` instead of `build-sonar`.
+If you are experiencing build failures, try adding `--stacktrace` or `--debug` to your Gradle command.
