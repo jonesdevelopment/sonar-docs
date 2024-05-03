@@ -19,7 +19,7 @@ description: List of all supported Minecraft versions and server software
 * 1.17-1.17.1
 * 1.18-1.18.2
 * 1.19-1.19.4
-* 1.20-1.20.4
+* 1.20-1.20.6
 
 **Requirements**
 
