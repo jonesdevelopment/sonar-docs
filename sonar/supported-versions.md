@@ -6,7 +6,7 @@ description: List of all supported Minecraft versions and server software
 
 **Supported client versions**
 
-* 1.7.2-1.20.6
+* Minecraft 1.7.2-1.20.6
 
 **Requirements**
 
@@ -16,6 +16,7 @@ description: List of all supported Minecraft versions and server software
 
 **Disclaimer**
 
-* Some heavily modified server forks might not be supported
-* ViaVersion on the proxy is not supported ([Read more on Discord](https://discord.com/channels/923308209769426994/1213163875906625597))
-* <mark style="color:yellow;">Bukkit is currently not supported but will be supported in the future</mark>
+* It's possible that some highly altered server forks won't be supported.
+* Some significantly modified Minecraft clients (including cheats) may interfere with the verification process. Since it is the client developer's duty to guarantee vanilla protocol, this cannot be fixed.
+* ViaVersion on the proxy is not supported. (→ [Read more on Discord](https://discord.com/channels/923308209769426994/1213163875906625597))
+* Bukkit is currently unsupported but will be supported in the future.
