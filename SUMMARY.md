@@ -13,6 +13,7 @@
 ## Administration
 
 * [Commands and Permissions](administration/commands-and-permissions.md)
+* [Usage of MiniMessage](administration/usage-of-minimessage.md)
 
 ## Development
 
