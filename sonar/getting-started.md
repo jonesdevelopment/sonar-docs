@@ -12,6 +12,6 @@ description: Step-by-step guide on how to install Sonar on your server.
 
 You can [download the latest stable release](https://github.com/jonesdevelopment/sonar/releases/latest) from the [Sonar GitHub repository](https://github.com/jonesdevelopment/sonar/).
 
-<mark style="color:red;">Important:</mark> Please do not upload Sonar to all backend servers if you are using a proxy (BungeeCord or Velocity), as Sonar's anti-bot is supposed to only be executed once for every new connection.
+<mark style="color:red;">Important:</mark> Please **do not** upload Sonar to all backend servers if you are using a proxy (BungeeCord or Velocity), as Sonar's anti-bot is supposed to only be executed once for every new connection.
 
-If you have any further questions, join the [Jones Development Discord](https://jonesdev.xyz/discord) and open a ticket or start a discussion thread.
+If you have any further questions, please feel free to join the [Discord server](https://jonesdev.xyz/discord) and open a ticket.
