@@ -8,7 +8,6 @@
 * [Welcome](README.md)
 * [Getting started](sonar/getting-started.md)
 * [Supported versions](sonar/supported-versions.md)
-* [Upgrade to Premium](sonar/upgrade-to-premium.md)
 
 ## Administration
 
