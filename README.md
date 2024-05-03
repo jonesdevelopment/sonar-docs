@@ -23,10 +23,10 @@ You can track the progress [here](https://github.com/users/jonesdevelopment/proj
 You can find a list of commands and their respective permission [here](administration/commands-and-permissions.md).
 
 **I found a bug! How can I report it?**\
-In order to report a bug, you can either open a ticket on [Discord](https://jonesdev.xyz/discord), ask for help in the `community-help` channel on [Discord](https://jonesdev.xyz/discord), or open a [GitHub issue](https://github.com/jonesdevelopment/sonar/issues/new/choose).
+In order to report a bug, you can either open a ticket on [Discord](https://jonesdev.xyz/discord), ask for help in the **#community-help** channel on [Discord](https://jonesdev.xyz/discord), or open a [GitHub issue](https://github.com/jonesdevelopment/sonar/issues/new/choose).
 
 **I found a security vulnerability! How can I report it?**\
 In order to report a security vulnerability, please visit the [GitHub Security Overview](https://github.com/jonesdevelopment/sonar/security).
 
-**When will the web panel release?**\
+**When will the web panel** (Sonar Premium) **release?**\
 Sonar's premium membership currently has no ETA. You can track the progress [here](https://github.com/users/jonesdevelopment/projects/3?pane=issue\&itemId=48685538).
