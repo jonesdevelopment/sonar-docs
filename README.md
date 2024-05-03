@@ -9,15 +9,14 @@ description: >-
 
 ## FAQ
 
-**Which Minecraft server versions does Sonar support?**\
+**Which Minecraft server software does Sonar support?**\
 Sonar currently supports Velocity and BungeeCord. You can read more about compatibility [here](sonar/supported-versions.md).
 
 **On which plugin websites/marketplaces can you find Sonar?**\
 You can find Sonar on [Modrinth](https://modrinth.com/plugin/sonar), [Hangar](https://hangar.papermc.io/Jones/sonar), [BuiltByBit](https://builtbybit.com/resources/sonar.23353/?ref=discover), [SpigotMC](https://www.spigotmc.org/resources/sonar.115239/), and [Polymart](https://polymart.org/resource/sonar.5097).
 
 **Which databases are supported for storing verified players?**\
-At the moment, Sonar only supports MySQL, but MariaDB and MongoDB support is planned.\
-You can track the progress [here](https://github.com/users/jonesdevelopment/projects/3?pane=issue\&itemId=48685401).
+At the moment, Sonar supports [MySQL](https://www.mysql.com/) and [MariaDB](https://mariadb.org/) for storing verified players.
 
 **Where can I find the commands and permissions?**\
 You can find a list of commands and their respective permission [here](administration/commands-and-permissions.md).
