@@ -17,6 +17,8 @@
   * [General settings](administration/configuring-sonar/general-settings.md)
   * [Adjusting the attack tracker](administration/configuring-sonar/adjusting-the-attack-tracker.md)
   * [Setting up a database](administration/configuring-sonar/setting-up-a-database.md)
+  * [Configuring the verification](administration/configuring-sonar/configuring-the-verification/README.md)
+    * [Using 1.20.5+ transfers](administration/configuring-sonar/configuring-the-verification/using-1.20.5+-transfers.md)
 
 ## Development
 
