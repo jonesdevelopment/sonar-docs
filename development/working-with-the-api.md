@@ -14,7 +14,9 @@ Before you are actually able to use the API, you will have to add the dependency
 maven(url = "https://repo.jonesdev.xyz/releases/")
 ```
 
-<mark style="color:red;">Important:</mark> Please make sure you do not include the API in your built Jar file by using `compileOnly()` instead of `implementation()`.
+{% hint style="danger" %}
+Please make sure you do not include the API in your built Jar file by using `compileOnly` instead of `implementation`.
+{% endhint %}
 
 ```gradle
 compileOnly("xyz.jonesdev.sonar:api:<version>")

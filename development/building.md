@@ -32,4 +32,6 @@ If you are not using IntelliJ IDEA, you can simply run the Gradle build script i
 * Linux: `./gradlew build-sonar`
 * Windows: `gradlew.bat build-sonar`
 
-If you are experiencing build failures, try adding `--stacktrace` or `--debug` to your Gradle command. If you have any further questions, please feel free to join the [Discord server](https://jonesdev.xyz/discord) and ask in the **#development** chat.
+{% hint style="info" %}
+**I**f you are experiencing build failures, try adding `--stacktrace` or `--debug` to your Gradle command. If you have any further questions, please feel free to join the [Discord server](https://jonesdev.xyz/discord) and ask in the **#development** chat.
+{% endhint %}
