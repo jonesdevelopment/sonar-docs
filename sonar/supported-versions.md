@@ -15,7 +15,7 @@ description: List of all supported Minecraft versions and server software
 * Java 11 (or above)
 
 {% hint style="warning" %}
-### Disclaimer
+**Disclaimer**
 
 * Bukkit is currently unsupported but will be supported in the future.
 * It's possible that some highly altered server forks won't be supported.
