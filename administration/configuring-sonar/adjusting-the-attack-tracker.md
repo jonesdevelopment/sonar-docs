@@ -1,13 +1,10 @@
----
-description: >-
-  Disclaimer: Please only edit the attack tracker settings if you really know
-  what you are doing. Any small misconfiguration might lead to unexpected bugs
-  or issues.
----
-
 # Adjusting the attack tracker
 
-The attack tracker is — like the name suggest — a constant background check in Sonar that tracks if the server is under attack or not. If Sonar finds the server to be under attack, the configured measures will take place.
+{% hint style="warning" %}
+Please only edit the attack tracker settings if you really know what you are doing. Any small misconfiguration might lead to unexpected bugs
+{% endhint %}
+
+The attack tracker is a constant background check in Sonar that tracks if the server is under attack or not. If Sonar finds the server to be under attack, the configured measures will take place.
 
 
 

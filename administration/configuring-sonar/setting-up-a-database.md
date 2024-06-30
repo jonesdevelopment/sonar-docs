@@ -1,6 +1,6 @@
 # Setting up a database
 
-There are currently two types of databases which are supported by Sonar: [MySQL](https://www.mysql.com/) and [MariaDB](https://mariadb.org/)
+There are currently three types of databases which are supported by Sonar: [H2](https://h2database.com/html/main.html), [MySQL](https://www.mysql.com/) and [MariaDB](https://mariadb.org/)
 
 ```yaml
 type: NONE # No database selected, Sonar will cache all users in memory
@@ -12,6 +12,14 @@ type: MYSQL # MySQL selected
 
 ```yaml
 type: MARIADB # MariaDB selected
+```
+
+
+
+The filename used by the H2 database for locally storing the verified players. This option is only used when the current database type is configured to H2.
+
+```yaml
+filename: verified_players
 ```
 
 
