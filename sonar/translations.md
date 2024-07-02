@@ -19,7 +19,7 @@ Currently supported languages:
 * Georgian - `ka` (`messages.yml` missing)
 * Turkish - `tr` (`config.yml` and `webhook.yml` missing)
 
-In order to use a language, you need to modify the `language.properties` file in Sonar, or change your system language. If you let Sonar regenerate the files (e.g. by deleting them and restarting the server), the new language will be automatically used for the translations.
+In order to use a language, you need to modify the `language.properties` file in Sonar or change your system language. If you let Sonar regenerate the files (e.g., by deleting them and restarting the server), the new language will be automatically used for the translations.
 
 ### Manual migration
 
