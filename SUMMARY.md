@@ -8,6 +8,7 @@
 * [Welcome](README.md)
 * [Getting started](sonar/getting-started.md)
 * [Supported versions](sonar/supported-versions.md)
+* [Translations](sonar/translations.md)
 
 ## Administration
 
