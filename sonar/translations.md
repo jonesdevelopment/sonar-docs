@@ -10,6 +10,7 @@ Currently supported languages:
 
 * English - by [Jones](https://github.com/jonesdevelopment) - `en`
 * Russian - by [MISHA](https://github.com/f3f5), null - `ru`
+* Polish - by Najek, foren - `pl`
 * French - by ekiff - `fr`
 * German - by [micartey](https://github.com/micartey) - `de`
 * Dutch - by [Jones](https://github.com/jonesdevelopment) - `nl`
