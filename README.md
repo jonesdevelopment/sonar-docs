@@ -1,8 +1,8 @@
 ---
 description: >-
   Welcome to the documentation of Sonar, a lightweight anti-bot plugin for
-  Velocity, BungeeCord, and Bukkit. It is designed to detect and remove bots
-  from your server without affecting any real players.
+  Velocity, BungeeCord, and Bukkit. Sonar keeps your server safe from common and
+  even sophisticated bot attacks.
 ---
 
 # Welcome
