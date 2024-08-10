@@ -1,42 +1,32 @@
+---
+description: >-
+  The attack tracker in Sonar monitors for potential bot attacks based on player
+  activity. Adjust these settings only if you are familiar with the system's
+  operation.
+---
+
 # Adjusting the attack tracker
 
-{% hint style="warning" %}
-Please only edit the attack tracker settings if you really know what you are doing. Any small misconfiguration might lead to unexpected bugs
-{% endhint %}
-
-The attack tracker is a constant background check in Sonar that tracks if the server is under attack or not. If Sonar finds the server to be under attack, the configured measures will take place.
-
-
-
-The first setting describes the number of new players trying to join the server in one second in order for an attack to be registered. If the number of joins per second exceeds this value, the attack mode is triggered.
+The minimum number of new players required to trigger attack detection. Default: `8`
 
 ```yaml
 min-players-for-attack: 8
 ```
 
-
-
-The second setting describes the minimum length of an attack. The attack mode will always be triggered for the given amount of time, regardless of whether the attack is still ongoing or not. This is done to prevent very short attacks triggering the attack mode multiple times a minute.
+The minimum duration (in milliseconds) that an attack must last to be considered ongoing. Default: `30000`
 
 ```yaml
 min-attack-duration: 30000
 ```
 
-> Note: This value represents the time in milliseconds
-
-\
-This setting describes the number of times an incident (attack) has to be reported in order to be acknowledged as an actual, real attack. This is done to prevent server lag or many people joining after a server restart from being detected as an attack.
+The minimum number of incident reports needed to confirm an attack, acting as a buffer against false positives. Default: `2`
 
 ```yaml
 min-attack-threshold: 2
 ```
 
-
-
-The last setting describes how much time has to pass between each detected attack.
+The cooldown period (in milliseconds) required before detecting a new attack after one has ended. Default: `3000`
 
 ```yaml
 attack-cooldown-delay: 3000
 ```
-
-> Note: This value represents the time in milliseconds

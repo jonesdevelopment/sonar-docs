@@ -1,48 +1,44 @@
+---
+description: >-
+  Sonar can be connected to a database to retain verified player data even after
+  server restarts.
+---
+
 # Setting up a database
 
-There are currently three types of databases which are supported by Sonar: [H2](https://h2database.com/html/main.html), [MySQL](https://www.mysql.com/) and [MariaDB](https://mariadb.org/)
+{% hint style="info" %}
+IP addresses are stored in plain text, so ensure your database is secure.
+{% endhint %}
+
+Defines the type of database used by Sonar. Options include `NONE`, `MYSQL`, `MARIADB`, and `H2`. Default: `NONE`
 
 ```yaml
-type: NONE # No database selected, Sonar will cache all users in memory
+type: NONE
 ```
 
-```yaml
-type: MYSQL # MySQL selected
-```
-
-```yaml
-type: MARIADB # MariaDB selected
-```
-
-
-
-The filename used by the H2 database for locally storing the verified players. This option is only used when the current database type is configured to H2.
+Specifies the file name for the `H2` database stored in Sonar's plugin directory. Default: `verified_players`
 
 ```yaml
 filename: verified_players
 ```
 
-
-
-The host and port for the database is where Sonar will connect when trying to access the database.
+The host address for SQL database authentication. Default: `localhost`
 
 ```yaml
-host: localhost # Use localhost to connect to the database
+host: localhost
 ```
+
+The port number for SQL database authentication. Default: `3306`
 
 ```yaml
-port: 3306 # Default SQL port
+port: 3306
 ```
 
-
-
-The name of the SQL database can be modified to your liking. It represents the database Sonar will use to store all the verified players. Please choose an appropriate name or leave this as the default.
+The name of the SQL database. Default: `sonar`
 
 ```yaml
 name: sonar
 ```
-
-
 
 The username and password are used by Sonar to authenticate the connection to the database. The connection will fail if no username or password are given.
 
@@ -54,11 +50,8 @@ username: 'my_username'
 password: 'my_p@ssw0rd!'
 ```
 
-\
-The last setting describes how many days Sonar should keep verified players in the database. This option is important as it keeps the database clean since it always removes outdated entries.
+The number of days Sonar should retain verified players in the database. Default: `5`
 
 ```yaml
 maximum-age: 5
 ```
-
-> Note: This value represents the time in days
