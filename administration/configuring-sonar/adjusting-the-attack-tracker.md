@@ -1,8 +1,7 @@
 ---
 description: >-
   The attack tracker in Sonar monitors for potential bot attacks based on player
-  activity. Adjust these settings only if you are familiar with the system's
-  operation.
+  activity. Adjust these settings only if you really know what you're doing.
 ---
 
 # Adjusting the attack tracker

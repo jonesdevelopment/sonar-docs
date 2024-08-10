@@ -1,8 +1,7 @@
 ---
 description: >-
-  Sonar uses a lightweight limbo server to perform advanced bot checks on new
-  players joining for the first time. These settings control when and how these
-  bot verifications are conducted.
+  These settings control when and how Sonar's bot verification is conducted.
+  Adjust these settings only if you really know what you're doing.
 ---
 
 # Configuring the verification
