@@ -6,7 +6,7 @@ description: List of all supported Minecraft versions and server software
 
 **Supported client versions**
 
-* **Minecraft: Java Edition** 1.7.2-1.21.2
+* **Minecraft: Java Edition** 1.7.2-1.21.3
 * **Minecraft: Bedrock Edition** is handled through [GeyserMC](https://geysermc.org/)
 
 **Software requirements**
