@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Download](https://github.com/jonesdevelopment/sonar/releases/latest)
-* [Discord](https://jonesdev.xyz/discord)
+* [Become a Patreon](https://patreon.com/jonesdev)
+* [Join the Discord](https://jonesdev.xyz/discord)
 
 ## Sonar
 
