@@ -1,6 +1,6 @@
 # Configuring Sonar
 
-### Quick start guide
+### Quickstart guide
 
 The following pages contain useful information that might help with configuring Sonar.
 

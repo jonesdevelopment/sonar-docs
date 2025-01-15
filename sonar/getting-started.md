@@ -16,4 +16,4 @@ You can [download the latest stable release](https://github.com/jonesdevelopment
 If you are utilizing a proxy (BungeeCord or Velocity), please **refrain from uploading Sonar to every backend server** as Sonar should only be run once for each new connection.
 {% endhint %}
 
-If you have any further questions, please feel free to join the [Discord ](https://jonesdev.xyz/discord)and open a ticket.
+If you have any further questions, please feel free to join the [Discord](https://jonesdev.xyz/discord) and open a ticket.
