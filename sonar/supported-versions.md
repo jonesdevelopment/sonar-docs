@@ -6,7 +6,7 @@ description: List of all supported Minecraft versions and server software
 
 **Supported client versions**
 
-* **Minecraft: Java Edition** 1.7.2-1.21.3
+* **Minecraft: Java Edition** 1.7.2-1.21.4
 * **Minecraft: Bedrock Edition** is handled through [GeyserMC](https://geysermc.org/)
 
 **Software requirements**
@@ -14,7 +14,7 @@ description: List of all supported Minecraft versions and server software
 * [Velocity](https://papermc.io/downloads/velocity) (3.3.0 build 330 or above)
 * [BungeeCord](https://ci.md-5.net/job/BungeeCord/) (1.20 or above)
 * [Paper](https://papermc.io/downloads/paper) (1.8.8 or above)
-  * **Bukkit and Spigot are supported**, but it is recommended to use Paper or another server fork.
+  * **Bukkit and Spigot are supported**, but it is recommended to use Paper.
 
 **Dependency requirements**
 
@@ -25,7 +25,7 @@ description: List of all supported Minecraft versions and server software
 **Disclaimer**
 
 * It's possible that some highly altered server forks won't be supported.
-* Some significantly modified Minecraft clients (including cheats) may interfere with the verification process. Since it is the client developer's duty to guarantee vanilla protocol, this cannot be fixed by Sonar.
+* Some significantly modified Minecraft clients (including cheats) may interfere with the verification process. Since it is the client developer's duty to guarantee vanilla protocol, this **cannot be fixed by Sonar**.
 {% endhint %}
 
-If you have any further questions, please feel free to join the [Discord server](https://jonesdev.xyz/discord) and open a ticket.
+If you have any further questions, please feel free to join the [Discord](https://jonesdev.xyz/discord) and open a ticket.

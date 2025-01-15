@@ -4,7 +4,7 @@ description: Supported languages in Sonar
 
 # Translations
 
-You can view a full list of valid language codes on [Wikipedia](https://en.wikipedia.org/wiki/List\_of\_ISO\_639\_language\_codes).
+You can view a full list of valid language codes on [Wikipedia](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes).
 
 Currently supported languages:
 
@@ -26,3 +26,5 @@ In order to use a language, you need to modify the `language.properties` file in
 ### Manual migration
 
 If you want to manually migrate your language files, you can find all the translated files on GitHub. Simply choose the type of translation (configuration, messages, or webhook configuration) and select the language you want to use in Sonar. Then, you can copy or replace your current file(s) with the file you want to use.
+
+If you are interested in contributing new translations, please do so via a GitHub Pull Request.
