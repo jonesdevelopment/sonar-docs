@@ -58,4 +58,4 @@ Then, you need to register your event listener using the Sonar API:
 Sonar.get().getEventManager().registerListener(new TestListener());
 ```
 
-And - that's it. Have fun developing! If you have any further questions, please feel free to join the [Discord server](https://jonesdev.xyz/discord) and ask in the **#development** chat.
+And—that's it. Have fun developing!

@@ -10,4 +10,4 @@ Sonar uses [MiniMessage](https://docs.advntr.dev/minimessage/) formatting, as th
 * You can find Sonar's translations in the `messages.yml` file in the plugin directory.
 * The MiniMessage formatting does not only apply to chat messages but also to action bars, titles, and disconnect messages. However, some events might not always be supported (for example, you are unable to create a hover or click event in a disconnect message, title, and action bar).
 
-If you have any further questions, please feel free to join the [Discord server](https://jonesdev.xyz/discord) and open a ticket.
+If you have any further questions, please feel free to join the [Discord ](https://jonesdev.xyz/discord)and open a ticket.
