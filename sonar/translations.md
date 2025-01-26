@@ -4,22 +4,21 @@ description: Supported languages in Sonar
 
 # Translations
 
-You can view a full list of valid language codes on [Wikipedia](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes).
-
 Currently supported languages:
 
 * English - by [Jones](https://github.com/jonesdevelopment) - `en`
-* Russian - by [MISHA](https://github.com/f3f5), Null - `ru`
-* Polish - by Najek, foren - `pl`
-* French - by ekiff - `fr`
-* German - by [micartey](https://github.com/micartey) - `de`
 * Dutch - by [Jones](https://github.com/jonesdevelopment) - `nl`
+* German - by [micartey](https://github.com/micartey) - `de`
 * Czech - by [slosa](https://github.com/slosacoder) - `cs`
+* French - by ekiff - `fr`
+* Turkish - by [Jenkins](https://github.com/ayazjenkins) - `tr`
+* Polish - by Najek, foren - `pl`
+* Russian - by MISHA, Null - `ru`
+* Spanish - by Juansitoh - `es`&#x20;
+* Indonesian - by [LourenT](https://github.com/LOURENT4462) - `id`
 * Georgian - by [GreenedDev](https://github.com/GreenedDev), [Chumb3x](https://github.com/chumb3x) - `ka`
-* Chinese Simplified - by [FallenCrystal](https://github.com/fallencrystal) - `zh`
-* Spanish - by Juansitoh - `es`  (`config.yml` missing)
-* Indonesian - by [LourenT](https://github.com/LOURENT4462) - `id`  (`config.yml` missing)
-* Turkish - by [Jenkins](https://github.com/ayazjenkins) - `tr`  (`config.yml` and `webhook.yml` missing)
+* Simplified Chinese - by [FallenCrystal](https://github.com/fallencrystal) - `zh`
+* Brazilian Potuguese - by [RenanGabrieel](https://github.com/RenanGabrieel) - `pt-br`
 
 In order to use a language, you need to modify the `language.properties` file in Sonar or change your system language. If you let Sonar regenerate the files (e.g., by deleting them and restarting the server), the new language will be automatically used for the translations.
 
