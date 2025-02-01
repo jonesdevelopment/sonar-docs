@@ -7,7 +7,7 @@ description: >-
 
 # Using 1.20.5+ transfers
 
-Set to true to enable the transfer feature. Ensure the feature is enabled in your server's configuration and consider adjusting login rate-limiting settings in Velocity or other proxies/plugins to avoid transfer issues. Default is false.
+Set to true to enable the transfer feature. **Ensure the feature is enabled in your server's configuration** and **consider adjusting login rate-limiting settings in Velocity or other proxies/plugins to avoid transfer issues**. Default is false.
 
 ```yaml
 enabled: false
@@ -24,8 +24,6 @@ Define the port for the origin server connection. The default is 25565, which is
 ```yaml
 destination-port: 25565
 ```
-
-For a detailed setup guide, refer to the [YouTube tutorial](https://youtu.be/aSWrzQVjGnc?t=71).
 
 {% hint style="info" %}
 If your server allows Bedrock players to join via Geyser, make sure to set up [TransferTool](https://github.com/onebeastchris/TransferTool) for Geyser, so Bedrock players are redirected to the correct server.
