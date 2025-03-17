@@ -9,6 +9,9 @@ description: >-
 
 Set to true to enable the transfer feature. **Ensure the feature is enabled in your server's configuration** and **consider adjusting login rate-limiting settings in Velocity or other proxies/plugins to avoid transfer issues**. Default is false.
 
+* Set the login ratelimit in Velocity to 1000 (or disable it)—the BungeeCord and Bukkit equivalent is connection throttling.
+* Enable transfers in velocity.toml (Velocity); config.yml (BungeeCord); server.properties (Bukkit)
+
 ```yaml
 enabled: false
 ```
